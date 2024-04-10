@@ -9,3 +9,5 @@ Project contains:
 - Redux Toolkit
 - Axios
 - React Queries
+
+Site is deployed here -> https://app.netlify.com/sites/comfy-furniture-store-react-project/overview
